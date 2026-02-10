@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# venv
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# SQLite / runtime data
+*.db
+flow.db
+
+# Logs
+*.log
+logs/
+
+# VS Code (optional: keep settings if you want)
+.vscode/
+
+# Secrets / env
+.env
+.env.*
