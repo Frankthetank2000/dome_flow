@@ -28,3 +28,7 @@ logs/
 # Secrets / env
 .env
 .env.*
+
+# Windows Explorer junk
+desktop.ini
+Thumbs.db
